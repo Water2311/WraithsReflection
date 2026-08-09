@@ -1,5 +1,5 @@
 # 【DOL】MOD发布-怨灵的倒影/Wraith's Reflection
-不太会用github，反馈和建议请去贴吧
+不太会用github，反馈和建议请去[贴吧](https://tieba.baidu.com/p/10930718335?&share=9105&fr=sharewise&is_video=false&unique=A53F2F59EB504D1820D17DCE5C995C1C&st=1786268349&client_type=1&client_version=22.9.1.0&sfc=copy&share_from=post)
 
 请在release中下载最新版本
 ## 模组介绍
