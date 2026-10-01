@@ -1,5 +1,5 @@
 # 【DOL】MOD发布-怨灵的倒影/Wraith's Reflection
-不太会用github，反馈和建议请去[贴吧](https://tieba.baidu.com/p/10930718335?&share=9105&fr=sharewise&is_video=false&unique=A53F2F59EB504D1820D17DCE5C995C1C&st=1786268349&client_type=1&client_version=22.9.1.0&sfc=copy&share_from=post)
+不太会用github，反馈和建议请去[贴吧](https://tieba.baidu.com/p/10930718335?&share=9105&fr=sharewise&is_video=false&unique=A53F2F59EB504D1820D17DCE5C995C1C&st=1786268349&client_type=1&client_version=22.9.1.0&sfc=copy&share_from=post)或QQ群468936641
 
 请在release中下载最新版本
 ## 模组介绍
@@ -12,7 +12,7 @@
 6. 还项链后可选择性进分裂剧情（依旧需要高创伤）
 7. 湖边约会（每天7:00-20:00之间，湖畔出现一个可以搭话的npc。若拥有专属特质，则根据痴迷值概率遇见幽灵，如果没遇到，在下一天会增加概率，每周重置，每周约会上限2次。好感达到60增加一个约会地点）
 
-没有动的内容：苍白后代相关，遭遇战
+没有动的内容：苍白后代相关
 ## 准备工作
 - 游戏本体0.5.11+（旧版本必爆红，但也能玩到大部分内容）
 - Modloader模组加载器
@@ -32,6 +32,7 @@
 - 和其他mod的适配：我用的秋枫框架，鹰宝宝和一些美化，大型mod都没有，如果有报错的话尽快跟我反馈一下，尽量改
 - 已发现并做了适配的内容：
 1. 装有模拟人生的情况下，询问海螺选项不显示（v1.3.1修复）
+2. 装有秋枫框架时，需要通过额外的选项来设置恋人（v1.3.2修复）
 ## 其他问题
 - Q:适配英文原版吗？
 
