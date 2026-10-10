@@ -1,9 +1,9 @@
 # 【DOL】MOD发布-怨灵的倒影/Wraith's Reflection
 不太会用github，反馈和建议请去[贴吧](https://tieba.baidu.com/p/10930718335?&share=9105&fr=sharewise&is_video=false&unique=A53F2F59EB504D1820D17DCE5C995C1C&st=1786268349&client_type=1&client_version=22.9.1.0&sfc=copy&share_from=post)或QQ群468936641
 
-此外，感谢[yuluo-feather](https://github.com/yuluo-feather/Wraith.sReflection.Expansion.git)为本模组制作额外拓展包，可根据需求自行下载游玩。点击蓝名查看拓展包详细页面。
-
 请在release中下载最新版本
+
+此外，感谢[yuluo-feather](https://github.com/yuluo-feather/Wraith.sReflection.Expansion.git)为本模组制作额外拓展包，可根据需求自行下载游玩。点击蓝名查看拓展包详细页面。
 ## 模组介绍
 象牙怨灵相关的恋爱拓展，更新至v1.3.2，包含以下内容：
 1. 偷项链并归还
